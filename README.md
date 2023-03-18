@@ -1,4 +1,4 @@
-[![MasterHead](https://mms.businesswire.com/media/20210504005326/en/875727/5/plot-demo.gif?download=1)](https://rishavchanda.io)
+[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anurag Patil</h1>
 <h3 align="center">An Mechanical Engineer and a self Taught Data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
