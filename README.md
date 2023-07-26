@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Pandas, Data visualization, Matplotlib**
 
-- 📫 How to reach me **anuragpatilj888825@gmail.com**
+- 📫 How to reach me **anuragpatil888825@gmail.com**
 
-- 📄 My Resume [https://rxresu.me/r/HxyvLXrq](https://rxresu.me/r/HxyvLXrq)
+- 📄 My Resume [https://drive.google.com/file/d/1zJM-wCAUiW42Ri64YbLc5OzrYKTJJ1Z0/view?usp=drive_link](https://drive.google.com/file/d/1zJM-wCAUiW42Ri64YbLc5OzrYKTJJ1Z0/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
